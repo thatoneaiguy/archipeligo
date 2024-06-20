@@ -1,0 +1,8 @@
+{
+  "ancient_vase_break":{
+    "subtitle": "sounds.archipelago.ancient_vase_break",
+    "sounds": [
+      "archipelago:ancient_vase_break"
+    ]
+  }
+}
